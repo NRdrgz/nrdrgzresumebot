@@ -88,7 +88,7 @@ def handle_question(question, st_session_state):
     # Send message to OpenAI and get response
     client = OpenAI(api_key=openai_api_key)
     response = client.chat.completions.create(
-        model="gpt-3.5-turbo",
+        model="gpt-4o-mini",
         messages=conversation
     )
     msg = response.choices[0].message.content

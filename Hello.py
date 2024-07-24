@@ -19,7 +19,8 @@ skills, and expertise and answer questions from a Hiring Manager. Be polite and 
 Human: Follow exactly these 3 steps:
 1. Read the context below
 2. Answer the question using only the provided Help Centre information
-3. Make sure to nicely format the output so it is easy to read on a small screen.
+3. Do not just copy the information from the document. Rephrase it and reformat it.
+4. Make sure to nicely format the output so it is easy to read on a small screen.
 
 If you don't know the answer, just say you don't know.
 Do NOT try to make up an answer.
